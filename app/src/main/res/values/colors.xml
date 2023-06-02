@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="white_1">#F9F9F9</color>
+    <color name="white_2">#F4F4F5</color>
+    <color name="gray">#CEC8D3</color>
+    <color name="green">#4ABC3F</color>
+    <color name="red">#AC1926</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F9F9F9</color>
+    <color name="progress_inactive">#484685</color>
+    <color name="progress_active">#DE72D1</color>
+    <color name="background_loading">#80ECECEC</color>
+    <color name="back_grey">#616C7A</color>
+    <color name="dark_green">#344E41</color>
+    <color name="dark_grey">#001026</color>
+    <color name="light_grey">#C8DBD5</color>
+    <color name="transaction_green">#236F57</color>
+    <color name="light_pink">#EDDCD8</color>
+    <color name="orange_red">#F15931</color>
+    <color name="category_business">#B07553</color>
+    <color name="category_transport">#FFCF33</color>
+    <color name="category_remittance">#FF5342</color>
+    <color name="category_gifts">#496DD4</color>
+    <color name="category_grocery">#75D449</color>
+    <color name="category_entertainment">#FF448D</color>
+    <color name="category_fast_food">#FFA325</color>
+
+</resources>
